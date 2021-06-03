@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposalls from nine regiaments of horse, and seven regiaments of foot, for a modell of an agreement of the people for a firme and present peace, upon grounds of common-right and freedome. As it was proposed by the agents of the five regiaments of horse; to be offered to the joynt concurrence of all the free commons of England. And since adhered to by the generall approbation of the Army. Novemb. 4. 1647. Imprimatur G.M.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91088</idno><idno type="EEBO-CITATION">99863336</idno>
+  <idno type="VID">161254</idno>
+  <idno type="EEBO-PROQUEST">2240932778</idno>
+  
+            <idno type="STC">Wing P3753</idno>
+            <idno type="STC">Thomason E412_23</idno>
+            <idno type="STC">ESTC R203364</idno>
+            <idno type="PROQUEST">99863336</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863336e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91088)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161254)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E412[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposalls from nine regiaments of horse, and seven regiaments of foot, for a modell of an agreement of the people for a firme and present peace, upon grounds of common-right and freedome. As it was proposed by the agents of the five regiaments of horse; to be offered to the joynt concurrence of all the free commons of England. And since adhered to by the generall approbation of the Army. Novemb. 4. 1647. Imprimatur G.M.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>First printed for the agitators, and use of the Army, and reprinted by Robert Ibbitson, in Smithfield,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Civil rights --  Great Britain --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161254:1"/>
+            <p>PROPOSALLS FROM NINE REGIAMENTS of HORSE, and SEVEN REGIAMENTS of FOOT, for a MODELL of an AGREEMENT OF THE PEOPLE FOR A firme and present PEACE, upon <hi>grounds of common-right and freedome.</hi>
+            </p>
+            <p>As it was proposed by the Agents of the five Re<g ref="char:EOLhyphen"/>giaments of Horse; to be offered to the joynt con<g ref="char:EOLhyphen"/>currence of all the free <hi>Commons</hi> of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>And since adhered to by the Generall approbation of the ARMY.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Novemb. 4. 1647.</date>
+                           </dateline>
+                        </opener>
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed>G. M.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>First Printed for the Agitators, and use of the Army, And Reprinted by <hi>Robert Ibbitson,</hi> in <hi>Smithfield,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161254:2"/>
+            <pb n="1" facs="tcp:161254:2"/>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>WE desire you may understand the reason of on extracting some principles of common free<g ref="char:EOLhyphen"/>dome out of those many things proposed to you in the <hi>Case truly stated,</hi> and drawing them up into the forme of an Agreement. Its chiefly, because for these things we first ingaged against the King, he would not permit the peoples Representatives to provide for the Nations safety, by disposing of the Militia, and other<g ref="char:EOLhyphen"/>wayes, according to their trust, but raised a Warre a<g ref="char:EOLhyphen"/>gainst them, and we engaged for the defence of that power, &amp; right of the people, in their Representatives. Therefore these things in the Agreement, the people are to claime as their native right, and price of their blood, which you are obliged absolutely to procure for them,</p>
+            <p>And these being the foundations of freedome, its necessary, that they should bee setled unalterably, which can be by no meanes, but this Agreement with the people.</p>
+            <p>And we cannot but minde you, that the ease of the people in all their Grievances, depends upon the set<g ref="char:EOLhyphen"/>ling those principles or rules of equal Government for a free People, and were but this Agreement establish<g ref="char:EOLhyphen"/>ed, doubtlesse all the Grievances of the Army and People would be redressed immediatly, and all things propounded in your <hi>Case truely Stated</hi> to be insisted on, would be fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thwith granted.</p>
+            <p>Then should the House of Commons have power
+<pb n="2" facs="tcp:161254:3"/> to help the oppressed People, which they are now be<g ref="char:EOLhyphen"/>reaved of by the chiefe Oppressors, and then they shall be equally concerned with you and all the people, in the se<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tlement of the most perfect freedome: for they shall eq<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ally suffer with you under any Burthens, or partake in any Freedome. We shall onely adde, that the summe of all the Agr<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ment w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich we herewith off<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r to you, is but in order to the fulfilling of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur De<g ref="char:EOLhyphen"/>claration of <hi>June</hi> the 14. wherein we promised to the People▪ that wee would with our lives vindicate and clear their Right and power in their Parliaments.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <list>
+                           <head>Lieuten. Gen. Reg.</head>
+                           <item>Edmond Bear,</item>
+                           <item>Robert Everard</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Com. Gen. Reg.</head>
+                           <item>George Garret</item>
+                           <item>Thomas Beverley</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Col. Fleetwood Reg.</head>
+                           <item>William Prior</item>
+                           <item>William Brian</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Col. Whaley Reg.</head>
+                           <item>Matthew Wealey</item>
+                           <item>William Russell</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Col. Rich Reg.</head>
+                           <item>John D<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ber </item>
+                           <item>William Hudson</item>
+                        </list>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="list_of_proposals">
+            <head>Proposals from Nine Regiaments of Horse, and seven Regiaments of Foot, FOR A Modell of an Agreement of the People, for a firme and present <hi>Peace,</hi> upon grounds of common Right.</head>
+            <p>HAving by our late labours, and hazzards, made it appeare to the world at how high a rate we
+<pb n="3" facs="tcp:161254:3"/> value out just freedome, and God having so far ow<g ref="char:EOLhyphen"/>ned our cause, as to deliver the enemies thereof into our hands: We do now hold our selves bound in mu<g ref="char:EOLhyphen"/>tuall duty to each other, to take the best care we can for the future, to avoid both the danger of returning into a slavish condition▪ and the chargeable remedy of another war: for it cannot be imagined that so many of our Country-men would have opposed us in this quarrel, if they had understood their owne good; so may we safely promise to our selves, that when our common Rights and Liberties shall be cleared, their endeavours will be disappointed, that seek to make themselves our Masters: since therefore our former oppressions, and scarce yet ended troubles have beene occasioned, either by want of frequ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt Nationall meetings in Councell, or by rendring those meetings ineffectuall; We are fully agreed and resolved, to pro<g ref="char:EOLhyphen"/>vide that hereafter our Representatives be neither left to an uncertainty for the time, nor made uselesse to the ends for which they are intended: In order where<g ref="char:EOLhyphen"/>unto we declare,</p>
+            <list>
+               <item>I. That the people of England being at this day very unequally distributed by Counties, Cities, and Bur<g ref="char:EOLhyphen"/>roughs, for the election of their Deputies in Parlia<g ref="char:EOLhyphen"/>ment, ought to be more indifferently proportioned, according to the number of the Inhabitants: the cir<g ref="char:EOLhyphen"/>cumstances whereof, for number, place, and manner, are to be set downe before the end of this present Par<g ref="char:EOLhyphen"/>liament.</item>
+               <item>II. That to prevent the many inconveniences appa<g ref="char:EOLhyphen"/>rently arising, from the long continuance of the same
+<pb n="4" facs="tcp:161254:4"/> persons in authority, this present Parliament to be dis<g ref="char:EOLhyphen"/>solved upon the last day of September, which shall be in the year of our Lord, 1648.</item>
+               <item>III. That the People doe of course chuse themselves a Parliament once in two yeares, viz. upon the first Thursday in every second March, after the manner as shall be prescribed before this present Parliament end, to begin to sit upon the first Thursday in April follow<g ref="char:EOLhyphen"/>ing at Westminster, or such other place as shall be ap<g ref="char:EOLhyphen"/>pointed from time to time by the preceding Represen<g ref="char:EOLhyphen"/>tatives, and to continue till the last day of September, then next ensuing, and no longer.</item>
+               <item>IV. That the power of this, and all future Representa<g ref="char:EOLhyphen"/>tives of this Nation, is inferiour only to theirs who chuse them, and extend; without the consent or con<g ref="char:EOLhyphen"/>currence of any other person or persons, to the ena<g ref="char:EOLhyphen"/>cting, altering, and repealing of Lawes; to the e<g ref="char:EOLhyphen"/>recting and abolishing of Offices and Courts; to the appointing, removing, and calling to account Magi<g ref="char:EOLhyphen"/>strates, and Officers of all degrees; to the making War and Peace, to the treating with foraine States: And generally, to whatsoever is not expresly, or im<g ref="char:EOLhyphen"/>plyedly reserved by the represented to themselves.</item>
+            </list>
+            <p>Which are as followeth,
+<list>
+                  <item>1. THat matters of Religion, and the wayes of Gods Worship, are not at all intrusted by us to any humane power, because therein we cannot re<g ref="char:EOLhyphen"/>mit or exceed a tittle of what our Consciences dictate to be the mind of God, without wilfull sinne: never<g ref="char:EOLhyphen"/>thelesse
+<pb n="5" facs="tcp:161254:4"/> the publike way of instructing the Nation (so it be not compulsive) is referred to their discretion.</item>
+                  <item>2. That the matter of impresting and constraining any of us to serve in the warres, is against our free<g ref="char:EOLhyphen"/>dome; and therefore we doe not allow it in our Repre<g ref="char:EOLhyphen"/>sentatives; the rather, because money (the sinews of war) being alwayes at their disposall, they can never want numbers of men, apt enough to engage in any just cause.</item>
+                  <item>3. That after the dissolution of this present Par<g ref="char:EOLhyphen"/>liament, no person be at any time questioned for any thing said or done, in reference to the late publike dif<g ref="char:EOLhyphen"/>ferences, otherwise then in execution of the Judge<g ref="char:EOLhyphen"/>ments of the present Representatives, or House of Commons.</item>
+                  <item>4 That in all laws made, or to be made, every person may bee bound alike, and that Tenure, Estate, Char<g ref="char:EOLhyphen"/>ter, Degree, Birth, or place, do not confer any excep<g ref="char:EOLhyphen"/>tion from the ordinary Course of Legall proceedings, whereunto others are subjected.</item>
+                  <item>5 That as the Laws ought to bee equall, so they must bee good, and not evidently destructive to the safety and well-being of the people.</item>
+               </list>
+            </p>
+            <p>These things we declare to be our <hi>native Rights</hi> and therefore are agreed and resolved to maintaine them with our utmost possibilities, against all op<g ref="char:EOLhyphen"/>position whatsoever, being compelled thereunto, not onely by the examples of our Ancestors, whose blood was often spent in vaine for the recovery of their freedomes, suffering themselves, <hi>through fradulent accommodations,</hi> to bee still deluded
+<pb n="6" facs="tcp:161254:5"/> of the fruit of their Victories, but also by our own wofull experience, who having long expected, and dearely earned the establishment of these certaine rules of Government are yet made to depend for the settlement of our Peace and Freedome, upon him that intended our bondage, and brought a cruell Warre upon us.</p>
+         </div>
+         <div type="list_of_regiments">
+            <head>The Names of the Regiaments which have already appear<g ref="char:EOLhyphen"/>ed for the Case, of <hi>The Case of the Army truly stated,</hi> and for this present Agree<g ref="char:EOLhyphen"/>ment, VIZ.</head>
+            <list>
+               <head>Of Horse</head>
+               <item>1 Gen. Regiament.</item>
+               <item>2 Life-Guard.</item>
+               <item>3 Lieut. Gen. Regiament.</item>
+               <item>4 Com. Gen. Regiament.</item>
+               <item>5 Col. Whaleyes Reg.</item>
+               <item>6 Col. Riches. Reg.</item>
+               <item>7 Col. Fleetwoods Reg.</item>
+               <item>8 Col. Harrisons Reg.</item>
+               <item>9 Col. Twissdens Reg.</item>
+            </list>
+            <list>
+               <head>Of Foot▪</head>
+               <item>1 Gen. Regiament.</item>
+               <item>2 Col. Sir Hardr. Wallers Reg.</item>
+               <item>3 Col. Lamberts Reg.</item>
+               <item>4 Col. Rainsboroughs Reg.</item>
+               <item>5 Col. Overtons Reg.</item>
+               <item>6 Col. Lilburn's Reg.</item>
+               <item>7 Col. Backsters Reg.</item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
